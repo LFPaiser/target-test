@@ -2,7 +2,7 @@
 As questões 1 e 2 estão respondidas em código no arquivo test.js.
 É possível rodar o código localmente utilizando Node.js como no exemplo abaixo:
 
-````bash
+```bash
 PS D:\PROJECTS\target-tests> node .\test.js
 Número: 51517
 Sequência calculada:
