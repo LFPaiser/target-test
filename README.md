@@ -1,5 +1,5 @@
 ## ========== QUESTÃO 1 E 2 ==========
-As questões 1 e 2 estão respondidas em código no arquivo test.js.
+As questões 1 e 2 estão respondidas em código no arquivo `test.js`.
 É possível rodar o código localmente utilizando Node.js como no exemplo abaixo:
 
 ```bash
