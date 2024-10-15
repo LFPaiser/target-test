@@ -1,4 +1,4 @@
-## ===================== QUESTÃO 1 E 2 =====================
+## ========== QUESTÃO 1 E 2 ==========
 As questões 1 e 2 estão respondidas em código no arquivo test.js.
 É possível rodar o código localmente utilizando Node.js como mostrado na imagem abaixo:
 
@@ -7,7 +7,7 @@ As questões 1 e 2 estão respondidas em código no arquivo test.js.
 No código também é possível encontrar em formato de comentários as respostas para as próximas questões.
 
 
-## ===================== QUESTÃO 3 =====================
+## ========== QUESTÃO 3 ==========
 ### Observe o trecho de código abaixo:
 ### int INDICE = 12, SOMA = 0, K = 1; enquanto K < INDICE faça { K = K + 1; SOMA = SOMA + K; } imprimir(SOMA);
 ### Ao final do processamento, qual será o valor da variável SOMA?
@@ -24,7 +24,7 @@ for (let k = 1; k < indice; k++){
 console.log(soma)
 ```
 
-## ===================== QUESTÃO 4 =====================
+## ========== QUESTÃO 4 ==========
 
 ### Descubra a lógica e complete o próximo elemento:
 - a) 1, 3, 5, 7, ___ => 9 ( números ímpares )
@@ -34,7 +34,7 @@ console.log(soma)
 - e) 1, 1, 2, 3, 5, 8, ___ => 13 ( fibonacci )
 - f) 2, 10, 12, 16, 17, 18, 19, ___ => 200 ( números começando com a letra 'D" )
 
-## ===================== QUESTÃO 5 =====================
+## ========== QUESTÃO 5 ==========
 
 ### Você está em uma sala com três interruptores, cada um conectado a uma lâmpada em salas diferentes.
 ### Você não pode ver as lâmpadas da sala em que está, mas pode ligar e desligar os interruptores quantas vezes quiser.
