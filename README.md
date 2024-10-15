@@ -1,8 +1,19 @@
 ## ========== QUESTÃO 1 E 2 ==========
 As questões 1 e 2 estão respondidas em código no arquivo test.js.
-É possível rodar o código localmente utilizando Node.js como mostrado na imagem abaixo:
+É possível rodar o código localmente utilizando Node.js como no exemplo abaixo:
 
-![imagem da saída do código](./captura-teste.png)
+````bash
+PS D:\PROJECTS\target-tests> node .\test.js
+Número: 51517
+Sequência calculada:
+0,1,1,2,3,5,8,13,21,34,55,89,144,233,377,610,987,1597,2584,4181,6765,10946,17711,28657,46368,75025
+O número 51517 não existe na sequencia de Fibonacci
+
+Texto fornecido: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.'
+ Contém a letra 'a' ou 'A' aparecendo 7 vezes
+
+PS D:\PROJECTS\target-tests>
+```
 
 No código também é possível encontrar em formato de comentários as respostas para as próximas questões.
 
