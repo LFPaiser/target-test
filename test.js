@@ -100,7 +100,7 @@ CountLetterA(loremIpsum)
 // Para a primeira ida, deixo X e Y ligados e vou verificar a sala A.
 // Aqui posso encontrar a sala A acesa ou apagada e anoto o seguinte:
 
-// A sala A estando acesa concluo que: Z controla a sala B ou sala C (porque o interruptor X ou Y estão controlando a sala A)
+// A sala A estando acesa concluo que: Z controla a sala B ou sala C (porque o interruptor X ou Y deve controlar a sala A)
 // A sala A estando apagada concluo que: Z controla a sala A (porque é o único interruptor desligado)
 
 // Para a segunda ida desligo o interruptor Y, deixando ligado apenas o X, e vou observar a sala B.
